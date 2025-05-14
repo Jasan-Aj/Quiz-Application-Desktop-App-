@@ -17,7 +17,7 @@ This is my Quiz application developed using Python, customtkinter, and sqlite3. 
 ## Usage
 
 Simply run the `main.py` file and enjoy the application.
-or you can install mysetup file and use quiz Apllication.
+
 
 **Note**: This is a demo or prototype application and can only run on a local computer.
 
