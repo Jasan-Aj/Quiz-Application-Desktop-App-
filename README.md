@@ -6,11 +6,10 @@ This is my Quiz application developed using Python, customtkinter, and sqlite3. 
 
 1. Install the required Python libraries:
    - `customtkinter`
-   - `sqlite3`
    - `tkinter`
    - `pillow`
 
-  #copy and paste in cmd to install libraries: pip install customtkinter sqlite3 tkinter pillow
+  #copy and paste in cmd to install libraries: pip install customtkinter Pillow
 
 
 3. Place the database file inside the `images` folder.
